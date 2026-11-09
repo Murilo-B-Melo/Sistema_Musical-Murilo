@@ -1,2 +1,35 @@
-# Sistema_Musical-Murilo
-Projeto de sistema musical (por enquanto apenas em linguagens de marcação e indo até o back-end)
+# 🎵 Sistema Musical — Front-end (Sprint 1)
+Murilo 1IG-DS
+
+Projeto de um sistema musical.
+
+
+---
+
+
+## 📸 Visão Geral das Telas
+
+
+O repositório é composto pelas seguintes interfaces HTML e seu arquivo de estilo unificado:
+
+
+| Arquivo | Descrição |
+| :--- | :--- |
+| login.html | Tela de autenticação para acesso ao sistema com credenciais de teste. |
+| index.html | Menu principal com atalhos para os módulos. |
+| cadastro_artista.html | Formulário de cadastro e tabela de gestão (edição/exclusão) de artistas. |
+| cadastro_musica.html | Formulário para adicionar músicas associadas a um artista específico. |
+| listagem_musicas.html | Biblioteca central com filtros por busca geral, artista e gênero. |
+| styles.css | Folha de estilo unificada com suporte a temas, CSS e responsividade. |
+
+
+---
+
+
+## 🛠️ Tecnologias Utilizadas
+
+
+## HTML5: Estruturação semântica, elementos de formulários (select, textarea, file input) e tabelas responsivas.
+
+## CSS3: Estilização moderna utilizando CSS
+---
